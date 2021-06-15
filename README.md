@@ -10,8 +10,7 @@
   <img src="/images/JARVIS_AI.jpg" width="700" alt="JARVIS-AI">
 </p>
 
-## 📹 Video Demonstration
-
+ 
 ## 🤔 Required Packages
 
 - You can copy paste the Below Mentioned Code to Install all the Packages
@@ -164,3 +163,10 @@ pip install pyjokes
 ## 🥺 License
 
 You are Free to Use the Above Code for Educational Purpose.
+## 📹 ScreenShots
+1)
+![Screenshot (55)](https://user-images.githubusercontent.com/49271775/122104471-546dc280-ce35-11eb-89cc-484e701aa776.png)
+2)
+![Screenshot (58)](https://user-images.githubusercontent.com/49271775/122104467-533c9580-ce35-11eb-88df-6615aa539a2b.png)
+3)
+![Screenshot (59)](https://user-images.githubusercontent.com/49271775/122104463-52a3ff00-ce35-11eb-9f15-8737deed6b05.png)
