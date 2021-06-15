@@ -12,8 +12,6 @@
 
 ## 📹 Video Demonstration
 
-<p align="center"><a href="https://vimeo.com/562670975">LIVE DEMO LINK</a></p>
-
 ## 🤔 Required Packages
 
 - You can copy paste the Below Mentioned Code to Install all the Packages
